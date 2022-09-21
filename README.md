@@ -376,7 +376,7 @@ just take the current user's wallet address and attempt to open their own profil
 Hints:
 - There are no bonus points for reinventing the wheel, use libraries to your advantage
 - Add your own wallet address to the database using prisma studio (`yarn prisma studio`) for testing
-- The styles don't need to match perfectly
+- Try to match the designs as best you can
 - Don't overcomplicate this lol
 
 ### 3.1 Create a new user if a wallet is connected that hasn't been seen before
